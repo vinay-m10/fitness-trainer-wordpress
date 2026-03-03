@@ -29,5 +29,6 @@ A fully responsive Fitness Trainer website built using WordPress, featuring a mo
 Project successfully version controlled and deployed on GitHub.
 
 ## Pictures
-<img width="1920" height="1080" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/0402f6e1-ad64-4bd7-9531-4b9e08e9aec1" />
+<img width="1860" height="721" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/d009f982-ca05-4bd1-9e10-121a3de0cdcc" />
+
 
